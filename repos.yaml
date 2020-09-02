@@ -1590,3 +1590,10 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: stratos
+    url: https://cloudfoundry.github.io/stratos
+    maintainers:
+      - name: Neil MacDougall
+        email: nmacdougall@suse.com
+      - name: Richard Cox
+        email: richard.cox@suse.com
